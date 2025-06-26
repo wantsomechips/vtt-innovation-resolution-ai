@@ -78,8 +78,6 @@ To deploy this project to the cloud, check the `flyio_deployment` branch and fol
 
 Youtube Link: https://www.youtube.com/watch?v=yKNr22bu9Yc
 
-Streamlit app link: https://test-vtt.streamlit.app
-
 This project addresses the challenge of identifying and consolidating innovation disclosures from VTT's collaboration partnerships.
 
 ## Challenge Description
